@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Temporary extracted assignment text
+BackProg-extracted.txt
+BackProg-readable.txt
+
+# OS files
+.DS_Store
+Thumbs.db
